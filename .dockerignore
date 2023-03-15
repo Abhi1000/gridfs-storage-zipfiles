@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+encryption
+.env
+log
+requests
+.gitignore
+.github
+test
